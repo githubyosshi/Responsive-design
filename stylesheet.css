@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 h1 {
   color: red;
 }
@@ -21,6 +25,7 @@ h1 {
 .item {
   width: 25%;
   float: left;
+  padding: 0px 15px;
 }
 
 .item-box {
